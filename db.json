@@ -1,0 +1,14 @@
+{ 
+  "categories": [
+  {
+    "id": 1,
+    "title": "School",
+    "Description": "Tasks related to class"
+  },
+  {
+    "id": 2,
+    "title": "Shopping List",
+    "Description": "Things I need to buy"
+  },
+  ]
+}
